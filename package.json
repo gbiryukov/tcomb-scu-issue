@@ -6,6 +6,7 @@
     "react-dom": "^15.5.4",
     "tcomb-form": "^0.9.16"
   },
+  "homepage": "https://gbiryukov.github.io/tcomb-scu-issue",
   "devDependencies": {
     "react-scripts": "1.0.7"
   },
